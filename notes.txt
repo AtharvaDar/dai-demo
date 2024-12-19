@@ -1,0 +1,38 @@
+
+dai@DAI13 MINGW64 /d/new-repo/dai-demo3 (main)
+$ git init - create a new git repo^C
+
+dai@DAI13 MINGW64 /d/new-repo/dai-demo3 (main)
+$ git add -A - Add all modified files in working area to staging area^C
+
+dai@DAI13 MINGW64 /d/new-repo/dai-demo3 (main)
+$ git commit - perform a commit (Store previous version from staging area to current area^C
+
+dai@DAI13 MINGW64 /d/new-repo/dai-demo3 (main)
+$ git log - Display all the commits of the repository^C
+
+dai@DAI13 MINGW64 /d/new-repo/dai-demo3 (main)
+$ git status - display current status of the repo^C
+
+dai@DAI13 MINGW64 /d/new-repo/dai-demo3 (main)
+$ git restore - recover file from stagging area^C
+
+dai@DAI13 MINGW64 /d/new-repo/dai-demo3 (main)
+$ git revert - recover file from commit are^C
+
+dai@DAI13 MINGW64 /d/new-repo/dai-demo3 (main)
+$ git branch - Display branches^C
+
+dai@DAI13 MINGW64 /d/new-repo/dai-demo3 (main)
+$ git branch <branch name> - Create a new branch by given name^C
+
+
+dai@DAI13 MINGW64 /d/new-repo/dai-demo3 (main)
+$ git branch -m - rename a branch^C
+
+dai@DAI13 MINGW64 /d/new-repo/dai-demo3 (main)
+$ git branch -d - delete a branch if merged^C
+
+dai@DAI13 MINGW64 /d/new-repo/dai-demo3 (main)
+$ git branch -D - delete a branch even if not merged^C
+
